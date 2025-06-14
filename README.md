@@ -5,7 +5,7 @@
 
 ## Overview
 
-**DB2YB** is a Jupyter notebook designed to run directly within the Databricks environment. It can:
+**DB2YB** is a Jupyter notebook designed to run directly within the Databricks environment. It can copy or udpate entire schemas or indivual tables in Yellowbrick.
 
 For each table matching a list of Regex patterns in Databricks:
 
